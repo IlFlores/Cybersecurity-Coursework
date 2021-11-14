@@ -1,0 +1,18 @@
+#!/bash/bin
+awk '{print $1,$2,$5,$6}' /home/sysadmin/Lucky_Duck_Investigations/Roulette_Loss_Investigation/Dealer_Analysis/0310_Dealer_schedule| grep -i '05:00:00 AM\|08:00:00 AM\|02:00:00 PM\|08:00:00 PM\|11:00:00 PM'
+awk '{print $1,$2,$5,$6}' /home/sysadmin/Lucky_Duck_Investigations/Roulette_Loss_Investigation/Dealer_Analysis/0315_Dealer_schedule| grep -i '05:00:00 AM\|08:00:00 AM\|02:00:00 PM'
+awk '{print $1,$2,$5,$6}' /home/sysadmin/Lucky_Duck_Investigations/Roulette_Loss_Investigation/Dealer_Analysis/0312_Dealer_schedule| grep -i '05:00:00 AM\|08:00:00 AM\|02:00:00 PM\|08:00:00 PM\|11:00:00 PM'$
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+<ersecurity-Coursework/Linux/dealerguy.sh" 4L, 608C           1,1           All
